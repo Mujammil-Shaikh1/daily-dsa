@@ -18,13 +18,6 @@ function countDigits(number) {
 
 const Input = 12345
 
-document.body.innerHTML = `
-            <h1>Input : ${Input}</h1>
-            <h1>Output : ${countDigits(Input)}</h1>
-            `
-
-
-// console.log("countdigits", countDigits(Input))
-
+console.log("countdigits", countDigits(Input))
 
 // Time Complexity - O(log₁₀(n))  

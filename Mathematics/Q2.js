@@ -1,7 +1,5 @@
 // Check if a no is positive negative or zero
 
-
-
 function fun(number) {
 
   if (number === 0) {
@@ -15,6 +13,5 @@ function fun(number) {
   }
 }
 console.log(fun(10))
-
 
 // Time Complexity - O(1)
